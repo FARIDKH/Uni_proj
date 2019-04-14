@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1555274833 source:/Users/faridganbarli/Desktop/FBMQO01/competitionEnor.cpp
+	<fstream>
+	<sstream>
+	<vector>
+	<iostream>
+	"competitionEnor.h"
+
+1555274642 /Users/faridganbarli/Desktop/FBMQO01/competitionEnor.h
+	<fstream>
+	<sstream>
+	<vector>
+	<iostream>
+
+1555273764 source:/Users/faridganbarli/Desktop/FBMQO01/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	"championship.h"
+
+1555274456 source:/Users/faridganbarli/Desktop/FBMQO01/championship.cpp
+	<iostream>
+	"championship.h"
+
+1555274325 /Users/faridganbarli/Desktop/FBMQO01/championship.h
+	"competitionEnor.h"
+	<string>
+
